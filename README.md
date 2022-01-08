@@ -1,1 +1,1 @@
-# Image_classifying_using_Resnet9
+# Image_classification_using_Resnet9
